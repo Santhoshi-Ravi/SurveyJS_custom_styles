@@ -1,0 +1,101 @@
+/* Button */
+
+.btn-green {
+    background-color: #5CDB95;
+    color: #fff;
+    border-radius: 3px;
+}
+.btn-green:focus,
+.btn-green:hover {
+    background-color: #18a689;
+    color: #fff;
+}
+.btn-black{
+    background-color: #282828;
+    color: #fff;
+    border-radius: 3px; 
+}
+.btn-black:focus,
+.btn-black:hover {
+    background-color: #1A1A1D;
+    color: #fff;
+}
+.btn-darkblue{
+    background-color: #0c0032;
+    color: #fff;
+    border-radius: 3px; 
+}
+.btn-darkblue:focus,
+.btn-darkblue:hover {
+    background-color: #190061;
+    color: #fff;
+}
+
+
+.panel-footer {
+    padding: 0 15px;
+    border: none;
+    text-align: right;
+    background-color: #fff;
+}
+
+.sv_qstn .sq-root {
+    border: 1px solid gray;
+    border-left: 4px solid #18a689;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.sv_qstn .sq-root-cb {
+    border-left: 4px solid orange;
+}
+
+.sq-title {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.sv_q_required_text,.sq-title-required {
+    color: crimson;
+}
+
+.sq-label {
+    margin-left: 30px;
+}
+.sq-item:nth-child(1) {
+    margin-bottom: 5px;
+}
+.checked{
+    color: #000072;
+    /* background-color: red; */
+
+}
+.checkbox-material{
+    background-color: red;
+}
+.sv_q_checkbox_selectall{
+    background-color: red;
+}
+.radio{
+    size : 30px;
+    background-color: red;
+}
+
+.progress-bar{
+    background-color: #1A1A1D;
+    color: #fff;
+    border-radius: 30px;
+}
+.alert-danger {
+    color: #E94B3CFF;
+    background-color: MISTYROSE;
+    border-color: #E94B3CFF;
+}
+
+/* Color code blue */
+.progress-bar-darkblue{
+    background-color: #0c0032;
+    color: #fff;
+    border-radius: 30px;
+}
